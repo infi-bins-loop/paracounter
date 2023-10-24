@@ -1,0 +1,23 @@
+#para{
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+    display: flex;
+}
+.paraMain{
+    height: 50vh;
+    width: 30vw;
+    border: 0.5px solid grey;
+    box-shadow: 1px 1px 10px;
+    margin-top: 5rem;
+    padding: 2rem;
+}
+
+.paragraph{
+    height: 20vh;
+    width: 30vw;
+}
+.num{
+    font-weight: bold;
+    color: rgb(73, 73, 73)
+}
